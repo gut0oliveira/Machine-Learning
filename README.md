@@ -6,15 +6,15 @@
 ## 🖥️Projects
 Below is the list of projects I've developed
 
-- [Classification with Python](#classification-with-python)
+- [Classification Algorithms](#classification-algorithms)
 
-## ✅Classification with Python
+## ✅Classification Algorithms
 ### Introduction:
 In this project, acting as a Data Scientist, I created classification algorithms with the creation and verification of accuracy of models such as Linear Regression, KNN, Decision Trees, SVM and Logistic Regression.
 </br>
 </br>
 To access it, click the link to be redirected to the project page👇🏻
-- [Classification with Python](https://github.com/gut0oliveira/Machine-Learning/tree/main/Classification-With-Python)
+- [Classification Algorithms](https://github.com/gut0oliveira/Machine-Learning/tree/main/Classification-With-Python)
 </br>
 </br>
 <h1 align="center">
