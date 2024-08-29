@@ -14,7 +14,7 @@ In this project, acting as a Data Scientist, I created classification algorithms
 </br>
 </br>
 To access it, click the link to be redirected to the project page👇🏻
-- [Classification Algorithms](https://github.com/gut0oliveira/Data-Analysis-Insights/tree/main/House-Sales-USA)
+- [Classification with Python](https://github.com/gut0oliveira/Data-Analysis-Insights/tree/main/House-Sales-USA)
 </br>
 </br>
 <h1 align="center">
