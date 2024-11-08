@@ -6,7 +6,7 @@
 ## 🖥️Projects
 Below is the list of projects I've developed
 
-- [Classification Algorithms](#classification-algorithms)
+- Classification Algorithms
 
 ## ✅Classification Algorithms
 ### Introduction:
