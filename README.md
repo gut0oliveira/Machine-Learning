@@ -14,5 +14,5 @@ In this project, acting as a Data Scientist, I created classification algorithms
 </br>
 </br>
 To access it, click the link to be redirected to the project page👇🏻
-- [Classification Algorithms](https://github.com/gut0oliveira/Machine-Learning/tree/main/Classification-With-Python)
+- [Classification Algorithms](https://github.com/gut0oliveira/Machine-Learning/tree/main/Classification-Algorithms)
 </br>
