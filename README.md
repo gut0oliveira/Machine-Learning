@@ -4,7 +4,7 @@
   Projetos de Machine Learning aplicados a problemas de classificação, regressão e modelagem preditiva utilizando Python.
 </p>
 
-## Sobre o repositório
+##
 
 Este repositório reúne projetos desenvolvidos para aplicar diferentes etapas de um pipeline de **Machine Learning**, desde a preparação e transformação dos dados até o treinamento, avaliação e comparação de modelos.
 
